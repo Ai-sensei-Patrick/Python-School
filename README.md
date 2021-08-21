@@ -1,12 +1,10 @@
 # Python-School
 
 This is a group project that I did in my university, Please read the csv version instead of the jupyter notebook version, since the csv version contain all conclusion needed. 
-The jupyter notebook used to show the code is working.
+The jupyter notebook used to show the code is working. PLease read "The California Test Score Data Set.csv" for the column description of the data
 
 Business problem:
-The California Department of Education (www.cde.ca.gov) is interested in the effect of  school  class  sizes  on  test  scores  for  school  age  children.   
-They  also  wish  to  build a  model  that  can  accurately  predict  test  scores  for  school  age  children  
-so  they  can better understand the drivers of student academic performance.
+The California Department of Education (www.cde.ca.gov) is interested in the effect of  school  class  sizes  on  test  scores  for  school  age  children. They  also  wish  to  build a  model  that  can  accurately  predict  test  scores  for  school  age  children so they can better understand the drivers of student academic performance.
 
 Conduct a suitable exploratory analysis on this dataset that is relevant to the goals of this business problem.
 
